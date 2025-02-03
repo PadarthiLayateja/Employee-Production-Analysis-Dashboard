@@ -26,4 +26,4 @@ Data like this isn't just numbers; it's the story of teamwork, productivity, and
 ## How to Use This Dashboard
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Employee-Production-Analysis-Dashboard.git
+   git clone https://github.com/padarthi.layateja/Employee-Production-Analysis-Dashboard.git
